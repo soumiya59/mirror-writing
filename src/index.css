@@ -1,8 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 @import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+
 body{
     background-image: url('/bg.jpg');
     background-repeat: none;
@@ -11,7 +11,11 @@ body{
     background-size:cover;
     background-attachment: fixed; 
     font-family: 'Alice', serif;
+    display: grid;
+    min-height: 100vh;
+    align-items: center;
 }
+
 h1{
     font-family: 'Devinne Swash', sans-serif;
 }
