@@ -16,6 +16,6 @@ Mirror writing has been popularized by Leonardo Da Vinci and consist in writing 
 npm run dev
 ```
 
-2. Open [http://localhost:3000](http://localhost:3000) with your browser.
+2. Open [http://localhost:5173](http://localhost:5173/) with your browser.
 
 3. start encrypting your notes/diaries/whatever
