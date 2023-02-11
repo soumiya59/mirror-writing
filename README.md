@@ -6,7 +6,7 @@ Mirror writing has been popularized by Leonardo Da Vinci and consist in writing 
 
 # Screenshot
 
-![screenshot](./public/screenshot.png)
+![screenshot](./public/screenshot2.png)
 
 ## Getting Started
 
